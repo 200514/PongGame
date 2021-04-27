@@ -1,4 +1,4 @@
-// De bal aanmaken en classes aangeven, bijvoorbeeld hoe groot die is.
+// De bal aanmaken en classes aangeven, bijvoorbeeld hoe groot die is
 class Ball extends Rectangle {
     constructor(x=0,y=0,color){
         super(x,y,30,30,color);
